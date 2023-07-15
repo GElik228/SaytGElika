@@ -1,6 +1,9 @@
 h1{
-    color:darkcyan
+    color:firebrick
 }
 #sovety{
     color: firebrick;
+}
+body{
+    background: url(Background.png);
 }
